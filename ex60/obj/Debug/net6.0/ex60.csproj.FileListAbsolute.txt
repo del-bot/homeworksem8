@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/homeworksem8/ex60/bin/Debug/net6.0/ex60
+/Users/delyashchuriumova/homeworksem8/ex60/bin/Debug/net6.0/ex60.deps.json
+/Users/delyashchuriumova/homeworksem8/ex60/bin/Debug/net6.0/ex60.runtimeconfig.json
+/Users/delyashchuriumova/homeworksem8/ex60/bin/Debug/net6.0/ex60.dll
+/Users/delyashchuriumova/homeworksem8/ex60/bin/Debug/net6.0/ex60.pdb
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ex60.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ex60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ex60.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ex60.AssemblyInfo.cs
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ex60.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ex60.dll
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/refint/ex60.dll
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ex60.pdb
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ex60.genruntimeconfig.cache
+/Users/delyashchuriumova/homeworksem8/ex60/obj/Debug/net6.0/ref/ex60.dll
