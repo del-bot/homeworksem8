@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/homeworksem8/ex54/bin/Debug/net6.0/ex54
+/Users/delyashchuriumova/homeworksem8/ex54/bin/Debug/net6.0/ex54.deps.json
+/Users/delyashchuriumova/homeworksem8/ex54/bin/Debug/net6.0/ex54.runtimeconfig.json
+/Users/delyashchuriumova/homeworksem8/ex54/bin/Debug/net6.0/ex54.dll
+/Users/delyashchuriumova/homeworksem8/ex54/bin/Debug/net6.0/ex54.pdb
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ex54.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ex54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ex54.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ex54.AssemblyInfo.cs
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ex54.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ex54.dll
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/refint/ex54.dll
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ex54.pdb
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ex54.genruntimeconfig.cache
+/Users/delyashchuriumova/homeworksem8/ex54/obj/Debug/net6.0/ref/ex54.dll
